@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Python sürümü
+python>=3.6
+
+# Gerekli kütüphaneler
+os
+opencv-python
+numpy
+scikit-learn
