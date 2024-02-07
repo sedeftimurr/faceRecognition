@@ -1,9 +1,9 @@
 # requirements.txt
 
-# Python sürümü
+# Python Version
 python>=3.6
 
-# Gerekli kütüphaneler
+# Required Libraries
 os
 opencv-python
 numpy
