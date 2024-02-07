@@ -19,3 +19,5 @@ This Jupyter Notebook file contains a simple facial recognition program. The pro
 ## Requirements
 Download and install Python [here](https://www.python.org/).
 You can use the `requirements.txt` file to install the required libraries.
+Type the following command in terminal or command prompt to install the required libraries:
+- "pip install -r requirements.txt"
